@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>W3.CSS Template</title>
+<title>FRDM Energy</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -67,25 +67,25 @@
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Summer House</div>
+        <div class="w3-display-topleft w3-black w3-padding">Free Energy</div>
         <img src="/w3images/house2.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Brick House</div>
+        <div class="w3-display-topleft w3-black w3-padding">Save The Earth</div>
         <img src="/w3images/house5.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
+        <div class="w3-display-topleft w3-black w3-padding">Clean Energy</div>
         <img src="/w3images/house4.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
+        <div class="w3-display-topleft w3-black w3-padding">Go Clean Energy</div>
         <img src="/w3images/house3.jpg" alt="House" style="width:99%">
       </div>
     </div>
@@ -105,7 +105,7 @@
       <img src="/w3images/team2.jpg" alt="Francis" style="width:100%">
       <h3>Francis Bisigiano</h3>
       <p class="w3-opacity">CEO & Founder</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p>The Founder of this orginaztion, that wants to make change and stop global warming</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -124,7 +124,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team4.jpg" alt="Maxwell" style="width:100%">
-      <h3>Maxwell Doster</h3>
+      <h3>Maxwell doster</h3>
       <p class="w3-opacity">CAO</p>
       <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
@@ -162,4 +162,3 @@
 
 </body>
 </html>
-
